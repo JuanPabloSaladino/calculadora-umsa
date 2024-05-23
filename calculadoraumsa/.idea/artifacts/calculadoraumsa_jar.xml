@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="calculadoraumsa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/calculadoraumsa_jar</output-path>
+    <root id="archive" name="calculadoraumsa.jar">
+      <element id="module-output" name="calculadoraumsa" />
+    </root>
+  </artifact>
+</component>
